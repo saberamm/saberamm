@@ -30,7 +30,7 @@ here You can see my <a href="https://www.linkedin.com/in/saber-mortezavi-2a79682
 
   
 
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=saberamm&show_icons=true&theme=transparent" alt="saberamm GitHub Stats">
-<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=saberamm&count_private=true&theme=radical" alt="saberamm" />
+<!--<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=saberamm&show_icons=true&theme=transparent" alt="saberamm GitHub Stats">
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=saberamm&count_private=true&theme=radical" alt="saberamm" />-->
   
   
